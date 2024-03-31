@@ -1,4 +1,4 @@
-23133551144736255
+23159229801725394
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83012,6 +83012,111 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+PiGUS library
+1140084168
+1140084168-3
+Connector
+0
+14
+14
+PiGUS library
+BUS_PC
+Connecteur Bus AT ISA 16 bits
+CONN BUS ISA
+0
+62
+62
+PiGUS library
+BUS_PC_chamfer
+Connecteur Bus AT ISA 16 bits
+CONN BUS ISA
+0
+62
+62
+PiGUS library
+CUI_SJ2-25103A-SMT-TR
+
+
+0
+4
+4
+PiGUS library
+EDGE-60
+
+
+0
+60
+60
+PiGUS library
+GY-PCM5102
+
+
+0
+15
+15
+PiGUS library
+ISA_8BIT
+
+
+0
+62
+62
+PiGUS library
+JLCPCB-tooling
+
+
+0
+0
+0
+PiGUS library
+PJ-208-SMD
+
+
+0
+3
+3
+PiGUS library
+PJ-231F-4A
+
+
+0
+4
+3
+PiGUS library
+PJ-321A
+
+
+0
+4
+3
+PiGUS library
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+PiGUS library
+SOIC-TSSOP-16
+
+
+0
+32
+16
+PiGUS library
+SOIC-TSSOP-20
+
+
+0
+40
+20
+PiGUS library
+SOP65P640X120-20N
+
+
+0
+20
+20
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
